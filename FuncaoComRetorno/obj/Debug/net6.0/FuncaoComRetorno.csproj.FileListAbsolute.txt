@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\bin\Debug\net6.0\FuncaoComRetorno.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\bin\Debug\net6.0\FuncaoComRetorno.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\bin\Debug\net6.0\FuncaoComRetorno.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\bin\Debug\net6.0\FuncaoComRetorno.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\bin\Debug\net6.0\FuncaoComRetorno.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\refint\FuncaoComRetorno.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\FuncaoComRetorno.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\FuncaoComRetorno\obj\Debug\net6.0\ref\FuncaoComRetorno.dll
